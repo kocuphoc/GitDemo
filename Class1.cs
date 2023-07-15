@@ -8,5 +8,6 @@ namespace WindowsFormsApp1
 {
     internal class Class1
     {
+        string i = "";
     }
 }
